@@ -1,5 +1,5 @@
 # Speech to Text Transcription App
-- Using [https://www.assemblyai.com/](AssemblyAI)
+- Using [AssemblyAI](https://www.assemblyai.com/)
 
 ## Installation
 1. Create a virtual environment
