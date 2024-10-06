@@ -1,5 +1,5 @@
 # Speech to Text Transcription App
-
+- Using [https://www.assemblyai.com/](AssemblyAI)
 
 ## Installation
 1. Create a virtual environment
@@ -17,11 +17,11 @@ source .venv/bin/activate
 ```
 3. Clone the repository
 ```sh
-git clone https://github.com/temesgen5335/Building_Audio_transcription_app.git
+git https://github.com/temesgen5335/Speech-to-text-transcription-app.git
 ```
 4. Navigate to the project directory
 ```sh
-cd Building_Audio_transcription_app
+cd Speech-to-text-transcription-app
 ```
 5. Install Stramlit
 ```sh
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 7. Run the app
 ```sh
-streamlit run script/whisper_streamlit.py
+streamlit run app.py
 ```
 
 ## License
